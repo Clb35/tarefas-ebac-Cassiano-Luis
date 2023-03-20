@@ -1,0 +1,21 @@
+Algoritmo em pseudocódigo para acordar
+
+1) Primeiramente eu abro os olhos.
+2) Tiro a coberta de cima de mim.
+3) Levanto-me da cama, colocando os dois pés no chão.
+4) Se estou vestido
+	5) abro a porta do quarto e saio
+6) Senao
+	7) visto-me e daí eu saio.
+8) Saindo, eu faço o café.
+9) Primeiro eu limpo o filtro.
+10)Adicciono o pó.
+11)Aperto no botão de ligar. Nisso:
+12) Se tenho fome.
+	13)Eu pego bolachas integrais para comer à medida
+que o café é passado.
+14) Senao.
+	15) Pego o celular enquanto eu espero o café.
+16) Bebo o café.
+17) Depois disso, volto ao quarto.
+18) Ligo o computador e começo a trabalhar.
